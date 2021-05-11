@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pg13cp3
+- 👋 Hi, I’m Gabriel.
 - 👀 I’m interested in cycling, cricket and coding. Basically anything beginning with c. 
 - 🌱 I’m currently learning c , c++ and javascript + some open gl.
 - 💞️ I’m looking to collaborate on cool stuff.
